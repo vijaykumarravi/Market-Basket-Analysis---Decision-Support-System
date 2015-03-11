@@ -1,0 +1,11 @@
+E:\Programs\Vijay\VB\Project\Project\bin\Debug\Project.exe.config
+E:\Programs\Vijay\VB\Project\Project\bin\Debug\Project.exe
+E:\Programs\Vijay\VB\Project\Project\bin\Debug\Project.pdb
+E:\Programs\Vijay\VB\Project\Project\obj\Debug\Market Basket Analysis - Decision SUpport SYstem.csprojResolveAssemblyReference.cache
+E:\Programs\Vijay\VB\Project\Project\obj\Debug\Project.Form1.resources
+E:\Programs\Vijay\VB\Project\Project\obj\Debug\Project.Form2.resources
+E:\Programs\Vijay\VB\Project\Project\obj\Debug\Project.Form3.resources
+E:\Programs\Vijay\VB\Project\Project\obj\Debug\Project.Properties.Resources.resources
+E:\Programs\Vijay\VB\Project\Project\obj\Debug\Market Basket Analysis - Decision SUpport SYstem.csproj.GenerateResource.Cache
+E:\Programs\Vijay\VB\Project\Project\obj\Debug\Project.exe
+E:\Programs\Vijay\VB\Project\Project\obj\Debug\Project.pdb
